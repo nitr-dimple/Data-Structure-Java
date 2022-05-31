@@ -82,6 +82,10 @@ public class Stack {
 
 //    Function to pop an element
     public static Node pop(Node top){
+        if(top == null){
+            System.out.println("Stack is empty");
+            return top;
+        }
         return top.next;
     }
 
