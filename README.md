@@ -1,6 +1,6 @@
 # Data-Structure-Java
 
-This repository contains following implementations of data structures using java
+This repository contains following implementations of data structures using Java
 
 ## [Linked List](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/LinkedList/LinkedList_Element.java)
 
