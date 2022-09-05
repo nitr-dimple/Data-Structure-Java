@@ -14,3 +14,5 @@ This repository contains following implementations of data structures using Java
      7 Reverse the list
      8 get head of the list
      9 check if the list is empty
+
+## Stack
