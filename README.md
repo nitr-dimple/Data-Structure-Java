@@ -22,3 +22,10 @@ This repository contains following implementations of data structures using Java
          2 Remove Element from stack
          3 Check Whether stack is empty
          4 Return top element of stack
+
+## [Queue](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Queue/Queue_LinkedList.java)
+
+     Following operations are implemented for Queue
+         1 Insert an element to queue
+         2 Remove Element from queue
+         3 Check Whether queue is empty 
