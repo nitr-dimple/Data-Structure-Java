@@ -29,3 +29,11 @@ This repository contains following implementations of data structures using Java
          1 Insert an element to queue
          2 Remove Element from queue
          3 Check Whether queue is empty 
+
+## [PriorityQueue](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/PriorityQueue/PriorityQueue.java)
+
+     Following operations are implemented for PriorityQueue min/max
+         1 Insert an element to PriorityQueue
+         2 Remove Element from PriorityQueue
+         3 Check Whether PriorityQueue is empty 
+         4 Get min/max of the priorityQueue
