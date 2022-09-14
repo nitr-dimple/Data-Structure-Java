@@ -47,3 +47,25 @@ This repository contains following implementations of data structures using Java
          4 Get min of the Binary Search Tree
          5 Inorder Traversal of Binary Search Tree
          6 Get root of Binary Search Tree
+
+## [Graph](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Graph/Graph.java)
+
+    Graph interface has following APIs
+    1. Graph()     // creates an empty graph
+    2. void addEdge(int v, int w)   // Add edge from v to w / w to v depending on whether the graph is directed or undirected
+    3. ArrayList<Integer> adj(int v)   // returns all vertices adjacent to v
+    4. int V()  // returns number of vertices
+    5. int E()  // return number of edges
+
+### [UndirectedGraph](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Graph/UndirectedGraph.java)
+
+    Undirected graph implements the Graph interface
+
+### [DirectedGraph](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Graph/DirectedGraph.java)
+
+    Directed graph implements the Graph interface   
+    The only different in directed and undirected graph is while adding an edge to graph
+
+### [DepthFirstSearch](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Graph/DepthFirstSearch.java)
+
+    Display the depth first search traversal of graph
