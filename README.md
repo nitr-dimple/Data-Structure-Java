@@ -37,3 +37,13 @@ This repository contains following implementations of data structures using Java
          2 Remove Element from PriorityQueue
          3 Check Whether PriorityQueue is empty 
          4 Get min/max of the priorityQueue
+
+## [Binary Search Tree](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/BST/BinarySearchTree.java)
+
+     Following operations are implemented for BinarySearchTree
+         1 Insert an element to BinarySearchTree
+         2 Remove Element from Binary Search Tree
+         3 Check Whether Binary Search Tree is empty 
+         4 Get min of the Binary Search Tree
+         5 Inorder Traversal of Binary Search Tree
+         6 Get root of Binary Search Tree
