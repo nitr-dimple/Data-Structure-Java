@@ -14,6 +14,7 @@ public class DepthFirstSearch {
     public DepthFirstSearch(Graph G, int s){
         visited = new boolean[G.V()];
         DFS(G, s);
+        System.out.println();
     }
 
     public void DFS(Graph G, int v){

@@ -18,5 +18,6 @@ public class DirectedGraphTest {
         G.addEdge(3,4);
         G.addEdge(4,5);
         DepthFirstSearch dfs = new DepthFirstSearch(G, 0);
+        BreadthFirstSearch bfs = new BreadthFirstSearch(G, 0);
     }
 }

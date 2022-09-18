@@ -69,3 +69,7 @@ This repository contains following implementations of data structures using Java
 ### [DepthFirstSearch](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Graph/DepthFirstSearch.java)
 
     Display the depth first search traversal of graph
+
+### [BreadthFirstSearch](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Graph/BreadthFirstSearch.java)
+
+    Display the Breadth first search traversal of graph
