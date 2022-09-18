@@ -73,3 +73,7 @@ This repository contains following implementations of data structures using Java
 ### [BreadthFirstSearch](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Graph/BreadthFirstSearch.java)
 
     Display the Breadth first search traversal of graph
+
+### [ConnectedComponents](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Graph/ConnectedComponents.java)
+
+    Count the number of connected components
