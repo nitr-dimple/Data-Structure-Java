@@ -15,6 +15,9 @@ This repository contains following implementations of data structures using Java
          8 get head of the list
          9 check if the list is empty
 
+### [Sort List](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/LinkedList/SortList.java)
+    used merge sort algorithm to sort linked list
+
 ## [Stack](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Stack/Stack_LinkedList.java)
     
      Following operations are implemented for Stack
