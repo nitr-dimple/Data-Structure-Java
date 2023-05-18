@@ -41,7 +41,7 @@ This repository contains following implementations of data structures using Java
          3 Check Whether PriorityQueue is empty 
          4 Get min/max of the priorityQueue
 
-## [Binary Search Algorithn](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/BinarySearch/BinarySearch.java)
+## [Binary Search Algorithm](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/BinarySearch/BinarySearch.java)
 
 ## [Binary Search Tree](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/BST/BinarySearchTree.java)
 
