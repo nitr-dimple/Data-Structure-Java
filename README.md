@@ -55,7 +55,7 @@ This repository contains following implementations of data structures using Java
 
 ## [AVL Tree](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/AVL/BalancedBinarySearchTree.java)
 
-     Following operations are implemented for BinarySearchTree
+     Following operations are implemented for BalancedBinarySearchTree
          1 Insert an element to BalancedBinarySearchTree
          2 Remove Element from BalancedBinarySearchTree
          3 Get min node of BalancedBinarySearchTree
