@@ -53,6 +53,15 @@ This repository contains following implementations of data structures using Java
          5 Inorder Traversal of Binary Search Tree
          6 Get root of Binary Search Tree
 
+## [AVL Tree](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/AVL/BalancedBinarySearchTree.java)
+
+     Following operations are implemented for BinarySearchTree
+         1 Insert an element to BalancedBinarySearchTree
+         2 Remove Element from BalancedBinarySearchTree
+         3 Get min node of BalancedBinarySearchTree
+         4 Get height of node
+         5 Get Balance factor for given node
+
 ## [Graph](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Graph/Graph.java)
 
     Graph interface has following APIs
