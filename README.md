@@ -62,6 +62,11 @@ This repository contains following implementations of data structures using Java
          4 Get height of node
          5 Get Balance factor for given node
 
+## [Red Black Tree](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/RedBlackTree/RedBlackTree.java)
+    Red Black Tree Operations
+        1 Insert an element to RedBlackTree
+        2 Delete an element from RedBlackTree
+
 ## [Graph](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Graph/Graph.java)
 
     Graph interface has following APIs
