@@ -67,6 +67,40 @@ This repository contains following implementations of data structures using Java
         1 Insert an element to RedBlackTree
         2 Delete an element from RedBlackTree
 
+## [Union Find](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/UnionFind)
+    There are 3 operations
+        1 Find
+        2 Connected
+        3 Union
+
+    Using Quick-Find Approach
+        Time Complexity:
+            Initialization: N
+            Union: N
+            Find: 1
+            Connected: 1
+
+    Using Quick-Union Approach
+        Time Complexity:
+            Initialization: N
+            Union: N+
+            Find: N
+            Connected: N
+
+    Using Weighted-Quick-Union Approach
+        Time Complexity:
+            Initialization: N
+            Union: lg N+
+            Find: lg N
+            Connected: lg N
+
+    Using Path Compression-Weighted-Quick-Union Approach
+        Time Complexity:
+            Initialization: N
+            Union: lg *N
+            Find: lg *N
+            Connected: lg *N
+
 ## [Graph](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Graph/Graph.java)
 
     Graph interface has following APIs
