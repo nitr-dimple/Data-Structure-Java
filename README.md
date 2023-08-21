@@ -134,3 +134,8 @@ This repository contains following implementations of data structures using Java
 ### [StronglyConnectedComponents](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Graph/StronglyConnectedComponents.java)
 
     Count the number of strognly connected components using Kosaraju-Sharir Algorithm
+
+
+### [Kruskal MST](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Graph/KruskalMST.java)
+
+    Kruskals algorithm to fine minimum spanning tree
