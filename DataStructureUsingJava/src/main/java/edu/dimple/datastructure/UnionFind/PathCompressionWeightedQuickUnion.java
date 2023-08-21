@@ -13,14 +13,15 @@ public class PathCompressionWeightedQuickUnion {
         size = new int[n];
         for(int i=0; i<n; i++){
             parent[i] = i;
-            size[i] = 0;
+            size[i] = 1;
         }
     }
 
     public int find(int i){
-        while(i != parent[i])
+        while(i != parent[i]){
             parent[i] = parent[parent[i]];
             i = parent[i];
+        }
         return i;
     }
 
@@ -29,8 +30,8 @@ public class PathCompressionWeightedQuickUnion {
     }
 
     public void union(int p, int q){
-        int pid = parent[p];
-        int qid = parent[q];
+        int pid = find(p);
+        int qid = find(q);
         if(pid == qid) return;
         if(size[pid] < size[qid]) {
             parent[pid] = qid;

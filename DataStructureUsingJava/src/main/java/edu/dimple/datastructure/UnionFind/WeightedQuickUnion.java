@@ -13,7 +13,7 @@ public class WeightedQuickUnion {
         size = new int[n];
         for(int i=0; i<n; i++){
             parent[i] = i;
-            size[i] = 0;
+            size[i] = 1;
         }
     }
 
@@ -28,8 +28,8 @@ public class WeightedQuickUnion {
     }
 
     public void union(int p, int q){
-        int pid = parent[p];
-        int qid = parent[q];
+        int pid = find(p);
+        int qid = find(q);
         if(pid == qid) return;
         if(size[pid] < size[qid]) {
             parent[pid] = qid;
