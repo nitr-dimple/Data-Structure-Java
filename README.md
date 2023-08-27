@@ -138,5 +138,11 @@ This repository contains following implementations of data structures using Java
 
 ### [Kruskal MST](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Graph/KruskalMST.java)
 
-    Kruskals algorithm to fine minimum spanning tree
+    Kruskals algorithm to find minimum spanning tree
     Time Complexity: E log*V
+
+
+### [Prims MST](https://github.com/nitr-dimple/Data-Structure-Java/blob/main/DataStructureUsingJava/src/main/java/edu/dimple/datastructure/Graph/PrimsMST.java)
+
+    Prims algorithm to find minimum spanning tree
+    
